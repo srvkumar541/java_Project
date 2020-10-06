@@ -93,3 +93,45 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-05 18:01:49.393
 !MESSAGE executing callback sts4.classpath.MWfNbkcX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:31:45.030
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:31:45.031
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:31:45.031
+!MESSAGE buffering callback sts4.classpath.MWfNbkcX ProcessingFiles false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:31:45.031
+!MESSAGE executing callback sts4.classpath.MWfNbkcX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:31:45.033
+!MESSAGE executing callback sts4.classpath.MWfNbkcX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:33:17.754
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:33:17.755
+!MESSAGE buffering callback sts4.classpath.MWfNbkcX ProcessingFiles true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:33:17.755
+!MESSAGE executing callback sts4.classpath.MWfNbkcX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:33:17.757
+!MESSAGE executing callback sts4.classpath.MWfNbkcX SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:34:01.350
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:34:01.350
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:34:01.350
+!MESSAGE buffering callback sts4.classpath.MWfNbkcX processing_files false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:34:01.351
+!MESSAGE executing callback sts4.classpath.MWfNbkcX 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 12:34:01.352
+!MESSAGE executing callback sts4.classpath.MWfNbkcX SUCCESS [done]
