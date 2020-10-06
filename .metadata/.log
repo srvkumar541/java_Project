@@ -683,3 +683,90 @@ Binding(COMMAND+SHIFT+T,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-06 19:20:20.327
 !MESSAGE executing callback sts4.classpath.AyZTmddT SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:25.110
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.AyZTmddT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:25.111
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.AyZTmddT
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:25.112
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:25.112
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.AyZTmddT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:43.238
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:43.238
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1d8e9f22[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=629)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:43.239
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.471
+!MESSAGE Boot LS startup time from start to initialized: 1232ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.493
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UvaVgXrdisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.494
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.494
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.494
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.494
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.494
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.495
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.495
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.UvaVgXrd => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.495
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.495
+!MESSAGE buffering callback sts4.classpath.UvaVgXrd stock-analysis false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.495
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.496
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.496
+!MESSAGE buffering callback sts4.classpath.UvaVgXrd car_dealership false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.496
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.496
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.496
+!MESSAGE buffering callback sts4.classpath.UvaVgXrd processing_files false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.497
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.497
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.497
+!MESSAGE buffering callback sts4.classpath.UvaVgXrd test false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.497
+!MESSAGE executing callback sts4.classpath.UvaVgXrd 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-07 02:11:44.522
+!MESSAGE executing callback sts4.classpath.UvaVgXrd SUCCESS [done]

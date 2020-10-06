@@ -9,6 +9,8 @@ public class StockFileData {
 	List<HashMap<String, Double>> data = new LinkedList<>();
 	
 	public void printData(){
+//		for(Object line:data)
+//		System.out.println(line);
 		System.out.println(data);
 	}
 	
