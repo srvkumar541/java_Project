@@ -1,9 +1,0 @@
-package car_dealership;
-
-public class Employee {
-	public void handleCustomer(Customer cust,Vehicle vehicle,boolean finance) {
-		if(finance) {
-			
-		}
-	}
-}
